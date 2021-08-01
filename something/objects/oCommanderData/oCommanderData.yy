@@ -34,7 +34,7 @@
     "path": "folders/Objects/Data.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oUnitData",
+  "name": "oCommanderData",
   "tags": [],
   "resourceType": "GMObject",
 }

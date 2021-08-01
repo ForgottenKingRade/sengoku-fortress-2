@@ -27,7 +27,7 @@
     "path": "folders/Objects/DEBUG.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oDEBUG_StartCombat",
+  "name": "oDEBUG_TestStartCombat",
   "tags": [],
   "resourceType": "GMObject",
 }

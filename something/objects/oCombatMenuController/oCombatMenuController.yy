@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "UnitBlock",
-    "path": "sprites/UnitBlock/UnitBlock.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +27,7 @@
     "path": "folders/Objects/GUI/Combat.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oUnitBlock",
+  "name": "oCombatMenuController",
   "tags": [],
   "resourceType": "GMObject",
 }
